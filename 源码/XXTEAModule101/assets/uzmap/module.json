@@ -1,0 +1,8 @@
+{
+	modules:[
+        {
+            name:'xxtea',
+            class:'com.apicloud.xxtea.TEAModule'
+        }
+	]
+}
